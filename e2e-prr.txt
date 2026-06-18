@@ -1,0 +1,2 @@
+This is a test file named e2e-prr.txt created for the tanka-e2e-anchor repository on branch e2e-gh-prr.
+Created on: 2026-06-18
